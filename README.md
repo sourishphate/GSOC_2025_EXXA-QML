@@ -19,9 +19,13 @@ Machine Learning for Science (ML4SCI) is an open-source organization that brings
 
 ## Project Goal:
 
-- The goal of this project is to explore the use of quantum machine learning (QML) techniques to aid in the characterization of exoplanetary atmospheres from transmission spectra. It aims to evaluate how effectively quantum representations capture physical or chemical structure in the data and detect anomalies that could signal unique or potentially habitable planetary conditions.
+The goal of this project is to explore the use of quantum machine learning (QML) techniques to aid in the characterization of exoplanetary atmospheres from transmission spectra. It aims to evaluate how effectively quantum representations capture physical or chemical structure in the data and detect anomalies that could signal unique or potentially habitable planetary conditions.
+
+## Dataset:
+
+To install POSEIDON and understand the documentation please refer to the following : [Installation Guide](https://poseidon-retrievals.readthedocs.io/en/latest/content/installation.html)
 
 ### Blog:
 
-To read more about the work done during the course of this project check out these blogs:
-[Medium]()
+To read more about the work done during the course of this project check out this blog:
+[Medium](https://medium.com/@sourishphate/quantum-machine-learning-for-exoplanet-characterization-gsoc-25-ml4sci-c6c6cb4590b9)
