@@ -6,7 +6,8 @@ EXXA - Quantum Machine Learning for Exoplanet Atmosphere Characterization</br>
 <p align="center"><img width="400" height="200" alt="ml4sci" src="https://github.com/user-attachments/assets/6668eff8-9aa7-483b-837c-63887c6225da" />
 
 ```
-This repository contains all contributions towards the EXXA project - QML for Exoplanet Characterization , as part of Google
+This repository contains all contributions towards the EXXA project - QML for
+Exoplanet Characterization , as part of Google
 Summer of Code 2025 under the ML4SCI organisation.
 ```
 
