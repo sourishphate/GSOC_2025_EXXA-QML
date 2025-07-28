@@ -22,6 +22,10 @@ Machine Learning for Science (ML4SCI) is an open-source organization that brings
 
 The goal of this project is to explore the use of quantum machine learning (QML) techniques to aid in the characterization of exoplanetary atmospheres from transmission spectra. It aims to evaluate how effectively quantum representations capture physical or chemical structure in the data and detect anomalies that could signal unique or potentially habitable planetary conditions.
 
+## Dataset:
+
+The goal of this project is to explore the use of quantum machine learning (QML) techniques to aid in the characterization of exoplanetary atmospheres from transmission spectra. It aims to evaluate how effectively quantum representations capture physical or chemical structure in the data and detect anomalies that could signal unique or potentially habitable planetary conditions.
+
 ### Blog:
 
 To read more about the work done during the course of this project check out these blogs:
