@@ -1,6 +1,6 @@
 # Final Work
 
-This folder contains the notebooks developed during the **Final phase** of the project.
+This folder contains the notebooks developed during the second half of the project.
 
 ## 📁 Notebooks:
 
